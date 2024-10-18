@@ -17,7 +17,7 @@ msgid "404"
 msgstr "404"
 
 #. Translators: WordPress link.
-#: patterns/footer-default.php:19
+#: patterns/footer-default.php:20
 msgid "Proudly powered by %s"
 msgstr "Proudly powered by %s"
 
@@ -86,7 +86,7 @@ msgid "the WordPress team"
 msgstr "the WordPress team"
 
 #. Author URI of the theme
-#: style.css patterns/footer-default.php:20
+#: style.css patterns/footer-default.php:21
 #, gp-priority: low
 msgid "https://wordpress.org"
 msgstr "https://en-ca.wordpress.org"
